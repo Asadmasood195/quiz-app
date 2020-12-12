@@ -1,10 +1,6 @@
 # Getting Started with Create React App
 
-![Screenshot](Annotation 2020-12-12 150824.png)
-![Screenshot](public/Annotation 2020-12-12 150824.png)
-
-
-
+<img width="945" alt="Annotation 2020-12-12 150824" src="https://user-images.githubusercontent.com/43596051/101982682-9146da00-3c97-11eb-91cb-48ed25d393a8.png">
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
