@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-![Screenshot](screenshot.png)
+![Screenshot](Annotation 2020-12-12 150824.png)
+public/Annotation 2020-12-12 150824.png
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
